@@ -47,7 +47,7 @@ if(gosti>0&&gosti<30){
           if(gosti<5){popust=5;console.log(` Popust je: ${popust}`);}
      else if(gosti>=5){popust=10;console.log(` Popust je: ${popust}`);}
 else {
-     console.log('Drugi argument je broj između 0 i 30');
+     console.log('Drugi argument je broj između 0 i 30.');
 
 }
 }
