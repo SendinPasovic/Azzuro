@@ -52,6 +52,7 @@ else {
 }
 }
 }
+//Hamza ne da nikome popust
 dajPopust(true, 2) 
 
 dajPopust()
