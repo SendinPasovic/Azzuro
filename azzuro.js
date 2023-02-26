@@ -54,6 +54,6 @@ else {
 }
 //Hamza ne da nikome popust
 dajPopust(true, 2) 
-
+//Pokušaji
 dajPopust()
 dajPopust (155,53)
