@@ -53,3 +53,6 @@ else {
 }
 }
 dajPopust(true, 2) 
+
+dajPopust()
+dajPopust (155,53)
